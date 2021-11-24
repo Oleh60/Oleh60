@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Oleh60
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Automatization QA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learn something new 
+- 🌱 I’m currently learning  Automatization QA
 
 <!---
 Oleh60/Oleh60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
